@@ -16,10 +16,11 @@
 ![](https://img.shields.io/badge/pandas-python-yellow)
 
 ![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YewoMhango&layout=compact&theme=aura&langs_count=8&count_private=true)
-![GitHub profile stats](https://github-readme-stats.vercel.app/api?username=YewoMhango&count_private=true&show_icons=true&theme=aura)
+![GitHub profile stats](https://github-readme-stats.vercel.app/api?username=Indiphile&count_private=true&show_icons=true&theme=aura)
 
+![GitHub profile stats](https://github-readme-stats.vercel.app/api?username=Indiphile&count_private=true&show_icons=true&theme=aura)
 ![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Indiphile&theme=github_dark)
 
-![GitHub profile stats](https://github-readme-stats.vercel.app/api?username=YewoMhango&count_private=true&show_icons=true&theme=aura)
+
 
 >
