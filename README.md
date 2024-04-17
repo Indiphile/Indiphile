@@ -1,5 +1,5 @@
 - 👨‍💼 Indiphile Ngqambuza
-- 🏢 Data & System Management(intern) At South African National Space Agency[SANSA](https://www.sansa.org.za/)
+- 🏢 Data & System Management(intern) At South African National Space Agency [SANSA](https://www.sansa.org.za/)
 - 📧 ingqambuza@gmail.com
 - 📍 Pretoria,South Africa
 
@@ -10,7 +10,7 @@
 ![](https://img.shields.io/badge/FastAPI-informational?style=flat&logo=fastAPI&labelColor=2c3e50&logoColor=1abc9c&color=1abc9c)
 ![](https://img.shields.io/badge/Git-informational?style=flat&logo=Git&labelColor=2c3e50&logoColor=f34f29&color=f34f29)
 ![](https://img.shields.io/badge/Bash-informational?style=flat&logo=GNU-Bash&labelColor=2c3e50&logoColor=BDC3C7&color=540D6E)
-![](https://img.shields.io/badge/Visual_Studio_Code-informational?style=flat&logo=visual-studio-code&labelColor=2c3e50&logoColor=0078d7&color=0078d7)
+![](https://img.shields.io/badge/Visual_Studio_Code-informational?style=flat&logo=visual-studio-code&labelColor=2c3e50&logoColor=0078d7&color=078d7)
 ![](https://img.shields.io/badge/Sublime_Text-informational?style=flat&logo=sublime-text&labelColor=2c3e50&logoColor=FF9800&color=FF9800)
 ![](https://img.shields.io/badge/numpy-python-blue)
 ![](https://img.shields.io/badge/pandas-python-yellow)
