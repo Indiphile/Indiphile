@@ -1,5 +1,5 @@
 - 👨‍💼 Indiphile Ngqambuza
-- 🏢 Data & System Management(intern) At South African National Space Agency [(SANSA)}]
+- 🏢 Data & System Management(intern) At South African National Space Agency[SANSA](https://www.sansa.org.za/)
 - 📧 ingqambuza@gmail.com
 - 📍 Pretoria,South Africa
 
