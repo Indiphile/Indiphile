@@ -15,9 +15,7 @@
 ![](https://img.shields.io/badge/numpy-python-blue)
 ![](https://img.shields.io/badge/pandas-python-yellow)
 
-<a href="https://github.com/Indiphile">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Indiphile&theme=radical&show_icons=true&include_all_commits=true&line_height=27&count_private=true&title_color=FF7D7D&text_color=c9cacc&icon_color=3498DB&bg_color=2c3e50" alt="Ratul's GitHub Stats" />
-</a>
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YewoMhango&theme=github_dark)
 
 <a href="https://github.com/Indiphile">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Indiphile&&title_color=FF7D7D&text_color=c9cacc&icon_color=F0DB4F&bg_color=2c3e50" />
