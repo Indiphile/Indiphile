@@ -15,7 +15,7 @@
 ![](https://img.shields.io/badge/numpy-python-blue)
 ![](https://img.shields.io/badge/pandas-python-yellow)
 
-![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YewoMhango&layout=compact&theme=aura&langs_count=8&count_private=true)
+![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Indiphile&layout=compact&theme=aura&langs_count=8&count_private=true)
 ![GitHub profile stats](https://github-readme-stats.vercel.app/api?username=Indiphile&count_private=true&show_icons=true&theme=aura)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Indiphile&theme=midnight-purple)
