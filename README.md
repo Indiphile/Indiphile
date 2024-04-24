@@ -1,5 +1,5 @@
-- 👨‍💼 Indiphile Ngqambuza
-- 🏢 Data & System Management(intern) At South African National Space Agency [(SANSA)}]
+- 👨‍💼 Data & System Management(intern)
+- 🏢 South African National Space Agency [SANSA](https://www.sansa.org.za/)
 - 📧 ingqambuza@gmail.com
 - 📍 Pretoria,South Africa
 
@@ -10,13 +10,24 @@
 <!--![](https://img.shields.io/badge/FastAPI-informational?style=flat&logo=fastAPI&labelColor=2c3e50&logoColor=1abc9c&color=1abc9c)-->
 ![](https://img.shields.io/badge/Git-informational?style=flat&logo=Git&labelColor=2c3e50&logoColor=f34f29&color=f34f29)
 ![](https://img.shields.io/badge/Bash-informational?style=flat&logo=GNU-Bash&labelColor=2c3e50&logoColor=BDC3C7&color=540D6E)
+<<<<<<< HEAD
 ![](https://img.shields.io/badge/Visual_Studio_Code-informational?style=flat&logo=visual-studio-code&labelColor=2c3e50&logoColor=0078d7&color=0078d7)
 <!--![](https://img.shields.io/badge/Sublime_Text-informational?style=flat&logo=sublime-text&labelColor=2c3e50&logoColor=FF9800&color=FF9800)-->
+=======
+![](https://img.shields.io/badge/Visual_Studio_Code-informational?style=flat&logo=visual-studio-code&labelColor=2c3e50&logoColor=0078d7&color=078d7)
+![](https://img.shields.io/badge/Sublime_Text-informational?style=flat&logo=sublime-text&labelColor=2c3e50&logoColor=FF9800&color=FF9800)
+>>>>>>> 72b2f9db51483cd267c7162a2e0fd1c1263cd2c7
 ![](https://img.shields.io/badge/numpy-python-blue)
 ![](https://img.shields.io/badge/pandas-python-yellow)
 
-![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YewoMhango&theme=github_dark)
+![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Indiphile&layout=compact&theme=aura&langs_count=8&count_private=true)
+![GitHub profile stats](https://github-readme-stats.vercel.app/api?username=Indiphile&count_private=true&show_icons=true&theme=aura)
 
-<a href="https://github.com/Indiphile">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Indiphile&&title_color=FF7D7D&text_color=c9cacc&icon_color=F0DB4F&bg_color=2c3e50" />
-</a>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Indiphile&theme=midnight-purple)
+
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Indiphile&theme=github_dark)
+
+
+
+
+>
