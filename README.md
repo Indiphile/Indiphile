@@ -1,4 +1,4 @@
-- 👨‍💼 Data & System Management(intern)
+- 👨‍💼 Junior Software Engineer
 - 🏢 South African National Space Agency [SANSA](https://www.sansa.org.za/)
 - 📧 ingqambuza@gmail.com
 - 📍 Pretoria,South Africa
